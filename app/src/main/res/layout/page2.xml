@@ -32,7 +32,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="New Button 1"
         android:id="@+id/gotopage1"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
